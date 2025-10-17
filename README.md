@@ -2,8 +2,8 @@
 **Version 1.0**
 
 **Prepared by:**
-Neeraj Ku. Kannoujiya (MSE2024003)
 Aman Sahu (PMS2024001)
+Neeraj Ku. Kannoujiya (MSE2024003)
 
 **Date:** 06/04/2025
 **Approved by:** Dr. Gaurav Srivastava
@@ -66,14 +66,14 @@ Aman Sahu (PMS2024001)
 
 | Version | Date       | Author          | Description of Changes                        | Approved By |
 |---------|------------|-----------------|-----------------------------------------------|-------------|
-| 1.0     | 2025-04-06 | Neeraj & Aman   | Initial draft                                 | -           |
-| 1.1     | 2025-04-15 | Neeraj & Aman   | Creating Introduction page                    | -           |
-| 1.2     | 2025-04-17 | Neeraj & Aman   | Adding Methodology                            | -           |
-| 2.0     | 2025-04-25 | Neeraj & Aman   | Adding Overall Description                    | -           |
-| 2.1     | 2025-05-03 | Neeraj & Aman   | Adding Use Case Diagram                       | -           |
-| 2.2     | 2025-06-10 | Neeraj & Aman   | Adding Marketplace Functionality              | -           |
-| 2.3     | 2025-07-24 | Neeraj & Aman   | Working on Blog Functionality Use Case Diagram| -           |
-| 2.4     | 2025-07-29 | Neeraj & Aman   | Try To Implement Blog Functionality           | -           |
+| 1.0     | 2025-04-06 | Aman & Neeraj   | Initial draft                                 | -           |
+| 1.1     | 2025-04-15 | Aman & Neeraj   | Creating Introduction page                    | -           |
+| 1.2     | 2025-04-17 | Aman & Neeraj   | Adding Methodology                            | -           |
+| 2.0     | 2025-04-25 | Aman & Neeraj   | Adding Overall Description                    | -           |
+| 2.1     | 2025-05-03 | Aman & Neeraj   | Adding Use Case Diagram                       | -           |
+| 2.2     | 2025-06-10 | Aman & Neeraj   | Adding Marketplace Functionality              | -           |
+| 2.3     | 2025-07-24 | Aman & Neeraj   | Working on Blog Functionality Use Case Diagram| -           |
+| 2.4     | 2025-07-29 | Aman & Neeraj   | Try To Implement Blog Functionality           | -           |
 
 ---
 
