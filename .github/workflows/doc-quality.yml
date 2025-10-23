@@ -1,0 +1,27 @@
+name: Documentation Quality Check
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Install markdownlint
+      - name: Install markdownlint-cli
+        run: npm install -g markdownlint-cli
+
+      # Run markdownlint (checks headings, spaces, etc.)
+      - name: Run markdownlint
+        run: markdownlint "**/*.md" || true
+
+      # Install and run codespell (spelling check)
+      - name: Install codespell
+        run: pip install codespell
+      - name: Run codespell
+        run: codespell "**/*.md" || true
